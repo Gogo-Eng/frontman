@@ -1,0 +1,7 @@
+run = ["clarity-repl"]
+entrypoint = "README.md"
+hidden = [".bin", "**/history.txt"]
+
+[env]
+PATH = "${HOME}/${REPL_SLUG}/.bin:${PATH}"
+
