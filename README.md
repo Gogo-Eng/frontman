@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a basic smart contract for a freelance payment platform using the Clarity language. The contract facilitates the creation of jobs, completion of jobs, and secure transfer of payments between clients and freelancers.
+This project implements a basic smart contract for a freelance payment platform using the Clarity smart contract language. The contract facilitates the creation of jobs, completion of jobs, and secure transfer of payments between clients and freelancers.
 
 ## Features
 
